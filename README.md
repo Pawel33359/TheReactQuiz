@@ -6,9 +6,9 @@ This is a quiz app made with react.
 
 In the project directory, you can run:
 
-### `npm server`
+### `npm run server`
 
-Runs fake server that allows app to fetch arra of questions.
+Runs fake server that allows app to fetch array of questions.
 
 ### `npm start`
 
